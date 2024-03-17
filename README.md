@@ -12,12 +12,12 @@ I'm an economist and statistician passionate about developing applications in ec
 
 ## My Featured Projects
 
-- **Management Agility (MAGI) R Shiny Project**: Multiple Shiny applications that allows interactive economic evaluation of oil & gas economic projects, with custom visualizations and analysis tools.
+- **Management Agility (MAGI) R Shiny Project**: Multiple Shiny applications that allows the formulation and economic evaluation of oil & gas projects, with custom visualizations and finance tools.
 - **Time Series Analysis in R with IA**: A series of scripts and notebooks demonstrating how to perform time series analysis using Temporal Fusion Transformers (TFT), with applications in economics and finance.
-**Computer Vision Project for Text Analysis and LaTeX Transformation**: An innovative project leveraging computer vision techniques to analyze text and transform it into LaTeX format, facilitating document preparation and formatting tasks.
+- **Computer Vision Project for Text Analysis and LaTeX Transformation**: An innovative project leveraging computer vision techniques to analyze text and transform it into LaTeX format, facilitating document preparation and formatting tasks.
   
 ## Contact
 
-I'm always interested in collaborations and exciting projects! Feel free to contact me via [email](mailto:sergiogonzalez@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergiogonzalez).
+I'm always interested in collaborations and exciting projects! Feel free to contact me via [email](mailto:sgonzalezve@unal.edu.co) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-andres-gonzalez-velandia-0118521b0/).
 
 Thanks for visiting my profile!
