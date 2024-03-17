@@ -29,4 +29,4 @@ I'm always interested in collaborations and exciting projects! Feel free to cont
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgonzalezve&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgonzalezve&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgonzalezve&layout=compact&theme=vision-friendly-dark)](https://github.com/sgonzalezve/github-readme-stats)
