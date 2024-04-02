@@ -4,7 +4,6 @@ I'm an economist and statistician passionate about developing applications in ec
 
 ## About Me
 
-- 👨‍💼 Economist and Statistician.
 - 🌱 Currently exploring new techniques in data science and machine learning.
 - 💼 Working on developing economic applications to facilitate access to economic and financial information.
 - 💻 Passionate about developing interactive web applications using Shiny.
